@@ -2,10 +2,10 @@
 
 ## Certifications
 
-| Certification | Issuer | Verification |
-|---|---|---|
-| AWS Certified Solutions Architect – Associate | AWS | [https://www.credly.com/badges/a88110e1-fabf-4c54-84fd-8ffa4d7c63ad](https://www.credly.com/badges/a88110e1-fabf-4c54-84fd-8ffa4d7c63ad) |
-| AWS Certified Developer – Associate | AWS | [https://www.credly.com/badges/e4a45a0e-4384-400e-8720-06a3f36ff201](https://www.credly.com/badges/e4a45a0e-4384-400e-8720-06a3f36ff201) |
+| Certification | Issuer | Date | ID | Verification |
+|---|---|---|---|---|
+| AWS Certified Solutions Architect – Associate | AWS | 2026-01 | a88110e1-fabf-4c54-84fd-8ffa4d7c63ad | [credly.com](https://www.credly.com/badges/a88110e1-fabf-4c54-84fd-8ffa4d7c63ad) |
+| AWS Certified Developer – Associate | AWS | 2026-01 | e4a45a0e-4384-400e-8720-06a3f36ff201 | [credly.com](https://www.credly.com/badges/e4a45a0e-4384-400e-8720-06a3f36ff201) |
 
 
 <!--
