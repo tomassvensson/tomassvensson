@@ -5,6 +5,7 @@
 | AWS Certified Solutions Architect – Associate | AWS | 2026-01 | a88110e1-fabf-4c54-84fd-8ffa4d7c63ad | [credly.com](https://www.credly.com/badges/a88110e1-fabf-4c54-84fd-8ffa4d7c63ad) |
 | AWS Certified Developer – Associate | AWS | 2026-01 | e4a45a0e-4384-400e-8720-06a3f36ff201 | [credly.com](https://www.credly.com/badges/e4a45a0e-4384-400e-8720-06a3f36ff201) |
 | Professional Scrum Master I (PSM I) | Scrum.org | 2026-03 | 82136398-bb2f-4f2d-ac27-e46d64792443 | [credly.com](https://www.credly.com/badges/82136398-bb2f-4f2d-ac27-e46d64792443) |
+| Professional Scrum Product Owner I (PSPO I) | Scrum.org | 2026-03 | a0b239d0-456f-4516-80b3-bb2d3172c4cd | [credly.com](https://www.credly.com/badges/a0b239d0-456f-4516-80b3-bb2d3172c4cd) |
 
 [profile on stackoverflow.com](https://stackoverflow.com/users/246622/tomsv)
 
