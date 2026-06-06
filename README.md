@@ -18,16 +18,16 @@
 
 ## Selected upstream contributions
 
-- **[home-assistant-libs/tuya-device-handlers](https://github.com/home-assistant-libs/tuya-device-handlers)** — merged pull request for a smart plug and a fix for a data cumulation bug.
+- IoT **[home-assistant-libs/tuya-device-handlers](https://github.com/home-assistant-libs/tuya-device-handlers)** — merged pull request for a smart plug and a fix for a data cumulation bug.
   PRs: [#253](https://github.com/home-assistant-libs/tuya-device-handlers/pull/253), [#244](https://github.com/home-assistant-libs/tuya-device-handlers/pull/244)
 
 - **[knowm/XChart](https://github.com/knowm/XChart)** — several merged pull requests improving chart robustness and usability, including fixes for null handling, NaN checks, logarithmic scale edge cases, date-axis performance, printing from the popup menu, and small cleanup/documentation improvements.  
   PRs: [#297](https://github.com/knowm/XChart/pull/297), [#298](https://github.com/knowm/XChart/pull/298), [#299](https://github.com/knowm/XChart/pull/299), [#300](https://github.com/knowm/XChart/pull/300), [#301](https://github.com/knowm/XChart/pull/301), [#324](https://github.com/knowm/XChart/pull/324)
 
-- **[RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1)** — merged pull request with several small fixes.  
+- Automation **[RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1)** — merged pull request with several small fixes.  
   PR: [#355](https://github.com/RaiMan/SikuliX1/pull/355)
 
-- **[haifengl/smile](https://github.com/haifengl/smile)** — merged fix plus test for formatting behavior.  
+- AI **[haifengl/smile](https://github.com/haifengl/smile)** — merged fix plus test for normalization behavior.  
   PR: [#562](https://github.com/haifengl/smile/pull/562)
 
 <!--
