@@ -7,6 +7,7 @@
 | Professional Scrum Master I (PSM I) | Scrum.org | 2026-03 | 82136398-bb2f-4f2d-ac27-e46d64792443 | [credly.com](https://www.credly.com/badges/82136398-bb2f-4f2d-ac27-e46d64792443) |
 | Professional Scrum Product Owner I (PSPO I) | Scrum.org | 2026-03 | a0b239d0-456f-4516-80b3-bb2d3172c4cd | [credly.com](https://www.credly.com/badges/a0b239d0-456f-4516-80b3-bb2d3172c4cd) |
 | Hashicorp certified: Terraform Associate HCTA0-004 | Hashicorp | 2026-04 | ed188bdb-9467-4e21-8f25-4a20e8d7adfe | [credly.com](https://www.credly.com/earner/earned/badge/ed188bdb-9467-4e21-8f25-4a20e8d7adfe) |
+| PRINCE2 Project Management Foundation, Version 7 | PeopleCert | 2026-07 | GR466080077LS | [peoplecert.org](https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJVRCxdO3nJnLmd3woZ2rO5) |
 
 [profile on stackoverflow.com](https://stackoverflow.com/users/246622/tomsv)
 
